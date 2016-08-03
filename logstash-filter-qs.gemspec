@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = 'logstash-filter-qs'
-  s.version = '0.0.0'
+  s.version = '0.1.0'
   s.licenses = ['MIT']
   s.summary = "Parses a query string into a hash."
   s.description = "This gem is a logstash plugin required to be installed on top of the Logstash core pipeline using $LS_HOME/bin/plugin install gemname. This gem is not a stand-alone program"
