@@ -17,7 +17,7 @@ filter {
 
 ## Maintainer
 
-- [Tim De Pauw](https://github.com/timdp)
+[Tim De Pauw](https://github.com/timdp)
 
 ## License
 
